@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Stand
+comment0.text=\r\n\ The\ player\ can\ choose\ to\ 'stand',\ which\ means\ that\ he\ wants\ no\ more\ cards.\ If\ the\ player\ has\ 21\ \r\n\ or\ higher,\ he\ will\ automatically\ 'stand'.\r\n\ \r\n\ @author\ Mickie\ Enad\r\n\ @version\ 5-3-19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Stand\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ stand()
+comment2.text=\r\n\ Stand\ at\ the\ current\ score,\ when\ the\ player\ hits\ the\ stand\ button.\r\n
+numComments=3

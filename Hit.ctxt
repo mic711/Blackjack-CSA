@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hit
+comment0.text=\r\n\ A\ player\ can\ choose\ 'Hit',\ which\ means\ to\ get\ another\ card.\ If\ the\ player\ has\ a\ score\ of\ 21\ \r\n\ or\ higher,\ he\ can't\ hit\ anymore.\r\n\ \r\n\ \r\n\ @author\ Mickie\ Enad\r\n\ @version\ 5-3-19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Hit\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ getAnotherCard()
+comment2.text=\r\n\ Turn\ over\ a\ new\ card\ when\ the\ player\ clicks\ the\ hit\ button\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ This\ class\ is\ responsible\ for\ holding\ the\ deck\ of\ cards.\ A\ deck\ of\ cards\ consist\ of\ four\ card\ \r\n\ types\ (clubs,\ diamonds,\ spades\ and\ hearts),\ where\ each\ type\ has\ 13\ unique\ values.\r\n\ \r\n\ @author\ Mickie\ Enad\r\n\ @version\ 5-3-19\r\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=void\ resetDeck()
+comment3.params=
+comment3.target=void\ shuffleDeck()
+comment3.text=\r\n\ Shuffle\ the\ deck\ of\ cards.\r\n
+comment4.params=
+comment4.target=Card\ getCard()
+comment4.text=\r\n\ Get\ a\ random\ card\ object\ from\ the\ deck.\ The\ card\ object\ is\ then\ removed\ from\ the\ deck.\r\n
+numComments=5

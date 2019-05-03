@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ A\ label\ is\ a\ text\ piece\ which\ can\ be\ shown\ in\ the\ game\ world.\r\n\ \r\n\ @author\ Mickie\ Enad\r\n\ @version\ 5-3-19\r\n
+comment1.params=labelText
+comment1.target=Label(java.lang.String)
+comment1.text=\r\n\ Constructor\ of\ label\ objects.\r\n\ @param\ labelText\ The\ text\ of\ this\ label\r\n
+comment2.params=labelText
+comment2.target=void\ updateLabel(java.lang.String)
+comment2.text=\r\n\ Update\ the\ text\ in\ this\ label\r\n\ @param\ labelText\ the\ text\ of\ this\ label\r\n
+comment3.params=
+comment3.target=void\ setLabelImage()
+numComments=4

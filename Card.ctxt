@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ A\ card\ is\ responsible\ for\ holding\ information\ like\ the\ type\ and\ value.\ A\ card\ can\ be\ revealed\ in\ \r\n\ the\ game\ world,\ but\ is\ not\ revealed\ by\ default.\r\n\ \r\n\ @author\ Mickie\ Enad\r\n\ @version\ 5-3-19\r\n
+comment1.params=type\ value
+comment1.target=Card(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ the\ class\ Card\r\n\ \r\n\ @param\ type\ The\ type\ of\ the\ card\ (clubs,\ spades,\ diamonds,\ hearts)\r\n\ @param\ value\ The\ value\ of\ the\ card\ (ace\ to\ king)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ Get\ the\ type\ of\ this\ card\r\n
+comment3.params=
+comment3.target=java.lang.String\ getValue()
+comment3.text=\r\n\ Get\ the\ value\ of\ this\ card\r\n
+comment4.params=
+comment4.target=boolean\ isRevealed()
+comment4.text=\r\n\ Get\ if\ the\ card\ is\ revealed\ or\ not.\r\n
+comment5.params=
+comment5.target=void\ revealCard()
+comment5.text=\r\n\ Reveal\ the\ card\r\n
+numComments=6
